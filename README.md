@@ -26,3 +26,6 @@ O código utiliza um sistema de duas passagens para garantir precisão nas dicas
 
     Segundo loop: Identifica as letras que existem em posições trocadas ou aquelas que estão totalmente incorretas.
 
+## Próximas etapas
+
+Integração com API (substituir a palavra estática por uma integração com uma API de palavras) a fim de tornar cada partida única.
